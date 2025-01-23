@@ -12,8 +12,7 @@
   "dependencies": {
     "async": "^1.5.2",
     "commander": "2.9.0",
-    "needle": "^3.0.0",
-    "wmic": "^1.0.1"
+    "needle": "^3.0.0"
   },
   "author": {
     "name": "Tomas Pollak",
