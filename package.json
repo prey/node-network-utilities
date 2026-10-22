@@ -1,6 +1,6 @@
 {
   "name": "node-network-utilities",
-  "version": "0.6.5",
+  "version": "0.6.6",
   "description": "Cross platform network utilities for Node.js (gateway_ip, MAC address, etc)",
   "main": "./lib/index.js",
   "scripts": {
@@ -12,7 +12,8 @@
   "dependencies": {
     "async": "^1.5.2",
     "commander": "2.9.0",
-    "needle": "^3.0.0"
+    "needle": "^3.0.0",
+    "systeminformation": "^5.31.7"
   },
   "author": {
     "name": "Prey Inc.",
